@@ -6,8 +6,8 @@ app = Flask(__name__)
 CORS(app)
 
 pergunta = {
-    "pergunta": "Você estudou os capítulos 5 e 6 da EBD esta semana?",
-    "opcoes": ["Sim", "Não", "Estudei parcialmente"]
+    "pergunta": "O que jesus escreveu na Areia?",
+    "opcoes": ["Nada", "Aquele que não tem pecado atire a primeira pedra", "vai em paz a sua fé te salvou"]
 }
 
 @app.route("/pergunta")
