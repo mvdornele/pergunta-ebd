@@ -8,14 +8,6 @@ CORS(app)
 @app.route("/pergunta")
 def obter_perguntas():
     resposta = {
-        # 👇 Compatível com o app atual
-        "pergunta": "2.Lendo Apocalipse, capítulo 3, verso 3a, comparado com 1 Samuel, capítulo 3, verso 10, quais as primeiras palavras que caracterizaram a Obra do Espírito Santo em nosso meio, como remanescentes de Sardes?",
-        "opcoes": [
-            "Não Ouvir a Palavra do Senhor e não Obedecer.",
-            "As palavras Ouvir a Palavra do Senhor e Obedecer.",
-            " A realização de uma grande Obra no nosso meio."
-        ],
-
         # 👇 Estrutura futura com múltiplas perguntas separadas por categoria
         "perguntas": {
             "para_todos": [
