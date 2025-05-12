@@ -12,21 +12,21 @@ def obter_perguntas():
         "perguntas": {
             "para_todos": [
                 {
-                    "texto": "2.Lendo Apocalipse, capítulo 3, verso 3a, comparado com 1 Samuel, capítulo 3, verso 10, quais as primeiras palavras que caracterizaram a Obra do Espírito Santo em nosso meio, como remanescentes de Sardes?",
+                    "texto": "2.Considerando as sete operações do Espírito de Deus, que lemos em Isaías, capítulo 11, verso 2, qual a designação do que a Igreja Fiel tem que fazer para estar alinhada com o Tempo do Breve?",
                     "opcoes": [
-                        "Não Ouvir a Palavra do Senhor e não Obedecer.",
-                        "As palavras Ouvir a Palavra do Senhor e Obedecer.",
-                        " A realização de uma grande Obra no nosso meio."
+                        "A Igreja deve se fundamentar no estudo teológico e filosófico das Escrituras, como forma de alcançar a plenitude espiritual    .",
+                        "A Igreja precisa aguardar passivamente o cumprimento das profecias, sem se envolver com revelações espirituais, pois tudo será esclarecido no arrebatamento.",
+                        "A Igreja precisa viver a experiência com o Espírito de Revelação. Ela precisa estar preparada para viver os Mistérios. Ela não pode mais viver da razão, da teologia, da filosofia."
                     ]
                 }
             ],
             "para_cias": [
                 {
-                    "texto": "5.Lendo Mateus, capítulo 13, verso 27, e Apocalipse, capítulo 2, verso 9a, o que representam: A) A boa semente, o trigo? B) A má semente, o joio?",
+                    "texto": "4.Lendo Mateus, capítulo 13, versos 31 e 32, comparando com Mateus, capítulo 17, verso 20,como podemos ter as nossas orações respondidas?",
                     "opcoes": [
-                        "A boa semente, o trigo, é a Palavra de Deus, que alimenta o coração do homem. A má semente, o joio, são os maus ensinos que vêm do mundo.",
-                        "A boa semente representa os que seguem tradições religiosas, e o joio representa os que se afastaram da religião verdadeira.",
-                        "A boa semente representa os anjos de Deus, e o joio representa os profetas do Antigo Testamento."
+                        "As orações só são respondidas quando alcançamos uma fé perfeita, sem dúvidas ou falhas, pois Deus só ouve os que já estão espiritualmente maduros.",
+                        "Se tivermos fé, mesmo que pequena como um grão de mostarda, podemos orar a Deus e seremos atendidos.",
+                        "Para que as orações sejam atendidas, é necessário jejuar e repetir palavras com insistência, até convencer a Deus a agir."
                     ]
                 }
             ]
