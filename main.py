@@ -12,21 +12,21 @@ def obter_perguntas():
         "perguntas": {
             "para_todos": [
                 {
-                    "texto": "2.Considerando as sete operações do Espírito de Deus, que lemos em Isaías, capítulo 11, verso 2, qual a designação do que a Igreja Fiel tem que fazer para estar alinhada com o Tempo do Breve?",
+                    "texto": "4.Lendo Apocalipse, capítulo 3, verso 9, identifique a oposição que se levantou contra a fé no período profético de Filadelfia?",
                     "opcoes": [
-                        "A Igreja deve se fundamentar no estudo teológico e filosófico das Escrituras, como forma de alcançar a plenitude espiritual    .",
-                        "A Igreja precisa aguardar passivamente o cumprimento das profecias, sem se envolver com revelações espirituais, pois tudo será esclarecido no arrebatamento.",
-                        "A Igreja precisa viver a experiência com o Espírito de Revelação. Ela precisa estar preparada para viver os Mistérios. Ela não pode mais viver da razão, da teologia, da filosofia."
+                        "Grupos religiosos que ensinavam doutrinas erradas e tentavam impedir a ação do Espírito de Deus na Igreja.",
+                        "Pessoas que se diziam do povo de Deus, mas rejeitavam a verdadeira revelação do Espírito Santo.",
+                        "A teologia apóstata da Sinagoga de Satanás. (o anátema: Gálatas 1:8-9)."
                     ]
                 }
             ],
             "para_cias": [
                 {
-                    "texto": "4.Lendo Mateus, capítulo 13, versos 31 e 32, comparando com Mateus, capítulo 17, verso 20,como podemos ter as nossas orações respondidas?",
+                    "texto": "5.Em Apocalipse, capítulo 3, verso 7, Jesus é chamado de SANTO e VERDADEIRO. Comparando com 1 Pedro, capítulo 1, verso 15, e com Filipenses, capítulo 4, verso 8, como deve ser nossa maneira de viver?",
                     "opcoes": [
-                        "As orações só são respondidas quando alcançamos uma fé perfeita, sem dúvidas ou falhas, pois Deus só ouve os que já estão espiritualmente maduros.",
-                        "Se tivermos fé, mesmo que pequena como um grão de mostarda, podemos orar a Deus e seremos atendidos.",
-                        "Para que as orações sejam atendidas, é necessário jejuar e repetir palavras com insistência, até convencer a Deus a agir."
+                        "Devemos viver de forma santa e verdadeira, como ensina a Bíblia.",
+                        "Nossa vida deve refletir os valores que agradam a Deus: honestidade, pureza, justiça e fidelidade.",
+                        "Devemos buscar ter atitudes puras e sinceras, seguindo o exemplo de Jesus em tudo o que fazemos."
                     ]
                 }
             ]
