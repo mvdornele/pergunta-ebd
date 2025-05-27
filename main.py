@@ -12,21 +12,21 @@ def obter_perguntas():
         "perguntas": {
             "para_todos": [
                 {
-                    "texto": "4.Lendo Apocalipse, capítulo 3, verso 9, identifique a oposição que se levantou contra a fé no período profético de Filadelfia?",
+                    "texto": "2.Lendo Apocalipse, capítulo 3, verso 9, comparado Apocalipse, capítulo 2, verso 16, qual o recurso que o Senhor colocou na igreja em Filadelfia para combater a oposição do anátema?",
                     "opcoes": [
-                        "Grupos religiosos que ensinavam doutrinas erradas e tentavam impedir a ação do Espírito de Deus na Igreja.",
-                        "Pessoas que se diziam do povo de Deus, mas rejeitavam a verdadeira revelação do Espírito Santo.",
-                        "A teologia apóstata da Sinagoga de Satanás. (o anátema: Gálatas 1:8-9)."
+                        "A revelação da Palavra pelo Espírito Santo, que é o ensino verdadeiro vindo da boca do Senhor.",
+                        "A doutrina pura transmitida pela espada do Espírito, que é a Palavra de Deus revelada à igreja fiel.",
+                        "A espada da boca do Senhor, a Palavra revelada."
                     ]
                 }
             ],
             "para_cias": [
                 {
-                    "texto": "5.Em Apocalipse, capítulo 3, verso 7, Jesus é chamado de SANTO e VERDADEIRO. Comparando com 1 Pedro, capítulo 1, verso 15, e com Filipenses, capítulo 4, verso 8, como deve ser nossa maneira de viver?",
+                    "texto": "6.No livro de Apocalipse, capítulo 3, verso 8, fala sobre uma porta aberta. No livro de João,capítulo 10, verso 9, quem é essa porta que nos salva?",
                     "opcoes": [
-                        "Devemos viver de forma santa e verdadeira, como ensina a Bíblia.",
-                        "Nossa vida deve refletir os valores que agradam a Deus: honestidade, pureza, justiça e fidelidade.",
-                        "Devemos buscar ter atitudes puras e sinceras, seguindo o exemplo de Jesus em tudo o que fazemos."
+                        "Jesus é a porta pela qual entramos e somos salvos; quem entra por Ele encontra salvação, segurança e pastagem.",
+                        "A porta é o próprio Senhor Jesus, que nos conduz à salvação e à vida eterna.",
+                        "Jesus é a porta aberta. Ele nos salva e cuida de nós."
                     ]
                 }
             ]
