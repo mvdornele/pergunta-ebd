@@ -16,7 +16,7 @@ def obter_perguntas():
                     "opcoes": [
                         "A) Espírito do Senhor (Essa operação revela a autoridade suprema de Jesus sobre a Igreja. Ele governa, abre e fecha portas espirituais, e conduz a Igreja segundo sua soberania).",
                         "B) Espírito de Sabedoria (A igreja de Filadélfia agiu com sabedoria ao valorizar a Palavra e o Nome do Senhor, mesmo em tempos de perseguição. A sabedoria do alto os fez entender o que realmente tinha valor espiritual).",
-                        "C) Espírito de Inteligência ( A inteligência espiritual capacita o crente a discernir a vontade de Deus e agir com entendimento. Filadélfia entendeu o significado da "porta aberta" — uma oportunidade de serviço, comunhão e salvação — e seguiu com fé."
+                        "C) Espírito de Inteligência ( A inteligência espiritual capacita o crente a discernir a vontade de Deus e agir com entendimento. Filadélfia entendeu o significado da porta aberta — uma oportunidade de serviço, comunhão e salvação — e seguiu com fé."
                     ]
                 }
             ],
