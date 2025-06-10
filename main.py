@@ -12,21 +12,21 @@ def obter_perguntas():
         "perguntas": {
             "para_todos": [
                 {
-                    "texto": "1.Lendo Apocalipse, capítulo 3, versos de 7 a 13, identifique as sete operações do Espírito de Deus em Filadélfia. Escolha um breve comentário sobre: A) Espírito do Senhor B) Espírito de Sabedoria C) Espírito de Inteligência",
+                    "texto": "1.Lendo Apocalipse, capítulo 3, versos 8 e 9, qual a diferença entre razão e revelação, considerando a operação do Espírito de Conhecimento ou Revelação?",
                     "opcoes": [
-                        "A) Espírito do Senhor (Essa operação revela a autoridade suprema de Jesus sobre a Igreja. Ele governa, abre e fecha portas espirituais, e conduz a Igreja segundo sua soberania).",
-                        "B) Espírito de Sabedoria (A igreja de Filadélfia agiu com sabedoria ao valorizar a Palavra e o Nome do Senhor, mesmo em tempos de perseguição. A sabedoria do alto os fez entender o que realmente tinha valor espiritual).",
-                        "C) Espírito de Inteligência ( A inteligência espiritual capacita o crente a discernir a vontade de Deus e agir com entendimento. Filadélfia entendeu o significado da \"porta aberta\" — uma oportunidade de serviço, comunhão e salvação — e seguiu com fé)."
+                        "A revelação é uma porta aberta pelo Senhor para entrar no mistério da salvação e discernir a verdade espiritual. A razão, por outro lado, limita-se ao entendimento natural, que confunde aparência com identidade verdadeira, como os que se diziam judeus mas não eram, por não terem a revelação da Obra do Senhor.",
+                        "Revelação: pus diante de ti uma porta aberta. Revelação é da Obra Redentora. Razão: aos que dizem judeus e não são, mas mentem. Razão é da Obra Criadora.",
+                        "A revelação vem por meio do Espírito, que abre a porta do entendimento espiritual e mostra o plano da salvação em Jesus (Obra Redentora). Já a razão humana julga pelas aparências e tradições (Obra Criadora), o que leva ao erro, como no caso dos que dizem que são judeus, mas mentem."
                     ]
                 }
             ],
             "para_cias": [
                 {
-                    "texto": "3.Lendo Mateus, capítulo 13, versos 45 e 46, como a pérola de grande valor nos ajuda a entender o que o Espírito Santo nos mostra sobre Jesus?",
+                    "texto": "4.Lendo Apocalipse, capítulo 3, verso 8b, o que aconteceu com a igreja de Filadelfia que, mesmo tendo pouca força, guardou a Palavra do Senhor?",
                     "opcoes": [
-                        "O negociante achou uma pérola muito especial e ficou com ela. A igreja de Filadélfia entendeu que Jesus é muito especial. O Espírito Santo mostra que Jesus é precioso, como essa pérola.",
-                        "Assim como o negociante vendeu tudo para adquirir a pérola, o Espírito Santo nos mostra que Jesus é tão valioso que vale a pena deixar tudo para segui-Lo.",
-                        "A pérola é única, rara e perfeita — assim como Jesus. O Espírito Santo nos revela essa beleza e valor espiritual de Cristo, mostrando que Ele é o tesouro maior que Deus nos deu."
+                        "A igreja de Filadélfia, embora fraca aos olhos humanos, foi fortalecida pelo Espírito de Deus para permanecer fiel. Ela não se rendeu à pressão externa e continuou anunciando Jesus como o único caminho de salvação.",
+                        "Mesmo enfrentando limitações e provações, a igreja de Filadélfia permaneceu firme na fé, sustentada pelo Espírito Santo. Ela guardou a Palavra e não se envergonhou de proclamar o nome de Jesus, demonstrando total dependência do Senhor.",
+                        "Ela não negou o nome de Jesus, mas confessou que Jesus é o único Salvador, pois o Espírito Santo a fortaleceu."
                     ]
                 }
             ]
