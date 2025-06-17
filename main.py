@@ -12,21 +12,21 @@ def obter_perguntas():
         "perguntas": {
             "para_todos": [
                 {
-                    "texto": "1.Lendo Apocalipse, capítulo 3, versos 8 e 9, qual a diferença entre razão e revelação, considerando a operação do Espírito de Conhecimento ou Revelação?",
+                    "texto": "1.Lendo Apocalipse, capítulo 3, verso 10, comparado com Apocalipse, capítulo 8, verso 13b, o que acontecerá com o mundo após o arrebatamento da igreja?",
                     "opcoes": [
-                        "A revelação é uma porta aberta pelo Senhor para entrar no mistério da salvação e discernir a verdade espiritual. A razão, por outro lado, limita-se ao entendimento natural, que confunde aparência com identidade verdadeira, como os que se diziam judeus mas não eram, por não terem a revelação da Obra do Senhor.",
-                        "Revelação: pus diante de ti uma porta aberta. Revelação é da Obra Redentora. Razão: aos que dizem judeus e não são, mas mentem. Razão é da Obra Criadora.",
-                        "A revelação vem por meio do Espírito, que abre a porta do entendimento espiritual e mostra o plano da salvação em Jesus (Obra Redentora). Já a razão humana julga pelas aparências e tradições (Obra Criadora), o que leva ao erro, como no caso dos que dizem que são judeus, mas mentem."
+                        "Deus permitirá que o mal atue com maior liberdade",
+                        "Acontecerão os juízos da Grande Tribulação, ao toque das 3 últimas trombetas.",
+                        "O mundo enfrentará a ira de Deus."
                     ]
                 }
             ],
             "para_cias": [
                 {
-                    "texto": "4.Lendo Apocalipse, capítulo 3, verso 8b, o que aconteceu com a igreja de Filadelfia que, mesmo tendo pouca força, guardou a Palavra do Senhor?",
+                    "texto": "3.Lendo Apocalipse, capítulo 3, versos 8b, comparado com Salmos, capítulo 119, verso 11, onde o filho que honra pai e mãe guarda a Palavra de Deus?",
                     "opcoes": [
-                        "A igreja de Filadélfia, embora fraca aos olhos humanos, foi fortalecida pelo Espírito de Deus para permanecer fiel. Ela não se rendeu à pressão externa e continuou anunciando Jesus como o único caminho de salvação.",
-                        "Mesmo enfrentando limitações e provações, a igreja de Filadélfia permaneceu firme na fé, sustentada pelo Espírito Santo. Ela guardou a Palavra e não se envergonhou de proclamar o nome de Jesus, demonstrando total dependência do Senhor.",
-                        "Ela não negou o nome de Jesus, mas confessou que Jesus é o único Salvador, pois o Espírito Santo a fortaleceu."
+                        "Ele guarda a Palavra de Deus no seu coração.",
+                        "Ele guarda a Palavra no coração para não pecar contra o Senhor, mostrando temor e obediência.",
+                        "Ele guarda a Palavra com fidelidade e amor, seguindo o caminho que o Senhor abriu diante dele."
                     ]
                 }
             ]
