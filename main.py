@@ -12,21 +12,21 @@ def obter_perguntas():
         "perguntas": {
             "para_todos": [
                 {
-                    "texto": "1.Lendo Apocalipse, capítulo 3, verso 10, comparado com Apocalipse, capítulo 8, verso 13b, o que acontecerá com o mundo após o arrebatamento da igreja?",
+                    "texto": "2.LendoApocalipse, capítulo 3, verso 9, qual a constatação que esses, da sinagoga de satanás,farão com a Igreja Fiel, em nossos dias?",
                     "opcoes": [
-                        "Deus permitirá que o mal atue com maior liberdade",
-                        "Acontecerão os juízos da Grande Tribulação, ao toque das 3 últimas trombetas.",
-                        "O mundo enfrentará a ira de Deus."
+                        "Saberão que a Igreja Fiel é cheia do amor de Deus, pela ação do Espírito Santo,…eis que eu farei que venham, e adorem prostrados a teus pés, e saibam que eu te amo.",
+                        "Reconhecerão que a Igreja Fiel é amada e guardada pelo Senhor, pois Ele mesmo manifesta Seu cuidado e presença nela.",
+                        "Verão que a Igreja Fiel permanece firme na Palavra e na comunhão com Deus, sendo um testemunho vivo da obra do Espírito Santo neste tempo."
                     ]
                 }
             ],
             "para_cias": [
                 {
-                    "texto": "3.Lendo Apocalipse, capítulo 3, versos 8b, comparado com Salmos, capítulo 119, verso 11, onde o filho que honra pai e mãe guarda a Palavra de Deus?",
+                    "texto": "4.Lendo Apocalipse, capítulo 3, verso 12, e I Timóteo, capítulo 3, verso 15, como a nossa família deve ser na casa do Senhor?",
                     "opcoes": [
-                        "Ele guarda a Palavra de Deus no seu coração.",
-                        "Ele guarda a Palavra no coração para não pecar contra o Senhor, mostrando temor e obediência.",
-                        "Ele guarda a Palavra com fidelidade e amor, seguindo o caminho que o Senhor abriu diante dele."
+                        "A nossa família deve ser firme como uma coluna na Casa do Senhor, sempre participando das escolas bíblicas, dos cultos e vivendo a verdade da Palavra de Deus",
+                        "Nossa família deve ser exemplo de fidelidade e compromisso na Casa do Senhor, sustentando o testemunho da fé e da doutrina com amor e perseverança.",
+                        "Nossa família deve viver em comunhão com a igreja, edificada na Palavra e no Espírito, sendo um pilar que fortalece a obra do Senhor em todas as suas atividades."
                     ]
                 }
             ]
