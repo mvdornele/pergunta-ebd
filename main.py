@@ -12,21 +12,21 @@ def obter_perguntas():
         "perguntas": {
             "para_todos": [
                 {
-                    "texto": "2.LendoApocalipse, capítulo 3, verso 9, qual a constatação que esses, da sinagoga de satanás,farão com a Igreja Fiel, em nossos dias?",
+                    "texto": "1.Lendo Apocalipse, capítulo 3, verso 10, destaque as figuras proféticas da Trindade.",
                     "opcoes": [
-                        "Saberão que a Igreja Fiel é cheia do amor de Deus, pela ação do Espírito Santo,…eis que eu farei que venham, e adorem prostrados a teus pés, e saibam que eu te amo.",
-                        "Reconhecerão que a Igreja Fiel é amada e guardada pelo Senhor, pois Ele mesmo manifesta Seu cuidado e presença nela.",
-                        "Verão que a Igreja Fiel permanece firme na Palavra e na comunhão com Deus, sendo um testemunho vivo da obra do Espírito Santo neste tempo."
+                        "O PAI -A Palavra - doutrina,O FILHO -A oração que Jesus fez por nós, O ESPÍRITO SANTO -levará a igreja antes da hora da grande Tribulação.",    
+                        "O PAI – revelou o plano eterno de salvação, O FILHO –  O cumprimento da promessa de livramento, O ESPÍRITO SANTO - Quem prepara e conduz a igreja fiel ao arrebatamento.",
+                        "O PAI – Quem, por sua fidelidade, sustenta o remanescente, O FILHO – O que cumpre a promessa do arrebatamento, O ESPÍRITO SANTO – É o selo e o penhor da promessa do livramento da igreja fiel."
                     ]
                 }
             ],
             "para_cias": [
                 {
-                    "texto": "4.Lendo Apocalipse, capítulo 3, verso 12, e I Timóteo, capítulo 3, verso 15, como a nossa família deve ser na casa do Senhor?",
+                    "texto": "4.Lendo Apocalipse, capítulo 2, verso 14, e I Coríntios, capítulo 8, verso 4, como devemos agir com relação àquilo que é sacrificado a ídolos?",
                     "opcoes": [
-                        "A nossa família deve ser firme como uma coluna na Casa do Senhor, sempre participando das escolas bíblicas, dos cultos e vivendo a verdade da Palavra de Deus",
-                        "Nossa família deve ser exemplo de fidelidade e compromisso na Casa do Senhor, sustentando o testemunho da fé e da doutrina com amor e perseverança.",
-                        "Nossa família deve viver em comunhão com a igreja, edificada na Palavra e no Espírito, sendo um pilar que fortalece a obra do Senhor em todas as suas atividades."
+                        "Devemos rejeitar qualquer prática que envolva o culto aos ídolos, porque sabemos que só há um Deus verdadeiro, e não podemos participar de coisas oferecidas ao que é falso.",
+                        "Devemos nos afastar de tudo aquilo que é sacrificado a ídolos, porque adoramos somente ao nosso Deus",
+                        "Devemos ser vigilantes e evitar o envolvimento com sacrifícios a ídolos, para não sermos tropeço aos irmãos na fé e não nos contaminarmos espiritualmente."
                     ]
                 }
             ]
