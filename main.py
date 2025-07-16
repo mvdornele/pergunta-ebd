@@ -12,7 +12,7 @@ def obter_perguntas():
         "perguntas": {
             "para_todos": [
                 {
-                    "texto": "2.Lendo Apocalipse, capítulo 3, verso 8a, comparado com Mateus, capítulo 13, versos 45 e 46,identifique o comportamento da igreja de Filadelfia. Faça a aplicação profética para a igreja dos nossos dias.",
+                    "texto": "2.Lendo Apocalipse, capítulo 3, verso 8a, comparado com Mateus, capítulo 13, versos 45 e 46,identifique o comportamento da igreja de Filadelfia.",
                     "opcoes": [
                         "Jesus revelado à igreja como a pérola de grande valor.",    
                         "A igreja de Filadélfia persevera na Palavra e reconhece o valor incomparável de Jesus, entregando tudo por Ele.",
@@ -22,11 +22,11 @@ def obter_perguntas():
             ],
             "para_cias": [
                 {
-                    "texto": "5.Lendo Mateus, capítulo 13, verso 47, junto com Mateus, capítulo 4, verso 19, o que isso quer dizer? A Rede, O Mar, Os Peixes?",
+                    "texto": "5.Lendo Mateus, capítulo 13, verso 47, junto com Mateus, capítulo 4, verso 19, o que isso quer dizer?",
                     "opcoes": [
                         "A rede usada para falar de Jesus, O mar é o mundo, Os peixes são as pessoas que ouvem falar de Jesus.",
-                        "A rede representa a pregação do Evangelho, o mar representa a humanidade perdida, e os peixes são os que serão alcançados pela Palavra.",
-                        "A rede é o instrumento da salvação, o mar é o lugar de confusão e pecado, e os peixes são os que respondem ao chamado de Jesus."
+                        "A rede a pregação do Evangelho, o mar a humanidade perdida, e os peixes os que serão alcançados.",
+                        "A rede instrumento da salvação, o mar confusão e pecado, e os peixes são os que respondem ao chamado de Jesus."
                     ]
                 }
             ]
