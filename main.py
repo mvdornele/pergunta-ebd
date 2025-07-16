@@ -12,21 +12,21 @@ def obter_perguntas():
         "perguntas": {
             "para_todos": [
                 {
-                    "texto": "1.Lendo Apocalipse, capítulo 3, verso 10, destaque as figuras proféticas da Trindade.",
+                    "texto": "2.Lendo Apocalipse, capítulo 3, verso 8a, comparado com Mateus, capítulo 13, versos 45 e 46,identifique o comportamento da igreja de Filadelfia. Faça a aplicação profética para a igreja dos nossos dias.",
                     "opcoes": [
-                        "O PAI -A Palavra - doutrina,O FILHO -A oração que Jesus fez por nós, O ESPÍRITO SANTO -levará a igreja antes da hora da grande Tribulação.",    
-                        "O PAI – revelou o plano eterno de salvação, O FILHO –  O cumprimento da promessa de livramento, O ESPÍRITO SANTO - Quem prepara e conduz a igreja fiel ao arrebatamento.",
-                        "O PAI – Quem, por sua fidelidade, sustenta o remanescente, O FILHO – O que cumpre a promessa do arrebatamento, O ESPÍRITO SANTO – É o selo e o penhor da promessa do livramento da igreja fiel."
+                        "Jesus revelado à igreja como a pérola de grande valor.",    
+                        "A igreja de Filadélfia persevera na Palavra e reconhece o valor incomparável de Jesus, entregando tudo por Ele.",
+                        "A igreja de Filadélfia reconhece a porta aberta pela revelação de Jesus e não a rejeita, demonstrando fé e dependência espiritual."
                     ]
                 }
             ],
             "para_cias": [
                 {
-                    "texto": "4.Lendo Apocalipse, capítulo 2, verso 14, e I Coríntios, capítulo 8, verso 4, como devemos agir com relação àquilo que é sacrificado a ídolos?",
+                    "texto": "5.Lendo Mateus, capítulo 13, verso 47, junto com Mateus, capítulo 4, verso 19, o que isso quer dizer? A Rede, O Mar, Os Peixes?",
                     "opcoes": [
-                        "Devemos rejeitar qualquer prática que envolva o culto aos ídolos, porque sabemos que só há um Deus verdadeiro, e não podemos participar de coisas oferecidas ao que é falso.",
-                        "Devemos nos afastar de tudo aquilo que é sacrificado a ídolos, porque adoramos somente ao nosso Deus",
-                        "Devemos ser vigilantes e evitar o envolvimento com sacrifícios a ídolos, para não sermos tropeço aos irmãos na fé e não nos contaminarmos espiritualmente."
+                        "A rede usada para falar de Jesus, O mar é o mundo, Os peixes são as pessoas que ouvem falar de Jesus.",
+                        "A rede representa a pregação do Evangelho, o mar representa a humanidade perdida, e os peixes são os que serão alcançados pela Palavra.",
+                        "A rede é o instrumento da salvação, o mar é o lugar de confusão e pecado, e os peixes são os que respondem ao chamado de Jesus."
                     ]
                 }
             ]
