@@ -12,21 +12,21 @@ def obter_perguntas():
         "perguntas": {
             "para_todos": [
                 {
-                    "texto": "2.Lendo Apocalipse, capítulo 3, verso 8a, comparado com Mateus, capítulo 13, versos 45 e 46,identifique o comportamento da igreja de Filadelfia.",
+                    "texto": "3.Lendo Apocalipse, capítulo 3, versos 16 e 17, identifique as características da igreja de Laodiceia. Faça a aplicação profética para a igreja dos nossos dias.",
                     "opcoes": [
-                        "Jesus revelado à igreja como a pérola de grande valor.",    
-                        "A igreja de Filadélfia persevera na Palavra e reconhece o valor incomparável de Jesus, entregando tudo por Ele.",
-                        "A igreja de Filadélfia reconhece a porta aberta pela revelação de Jesus e não a rejeita, demonstrando fé e dependência espiritual."
+                        "Igreja morna, rica de bens materiais e pobre de bens espirituais.",    
+                        "Uma igreja que não reconhece sua real condição espiritual.",
+                        "Igreja indiferente espiritualmente, sem fervor nem compromisso verdadeiro com Deus."
                     ]
                 }
             ],
             "para_cias": [
                 {
-                    "texto": "5.Lendo Mateus, capítulo 13, verso 47, junto com Mateus, capítulo 4, verso 19, o que isso quer dizer?",
+                    "texto": "4.Lendo Apocalipse, capítulo 3, verso 14, identifique quem é o Senhor Jesus.",
                     "opcoes": [
-                        "A rede usada para falar de Jesus, O mar é o mundo, Os peixes são as pessoas que ouvem falar de Jesus.",
-                        "A rede a pregação do Evangelho, o mar a humanidade perdida, e os peixes os que serão alcançados.",
-                        "A rede instrumento da salvação, o mar confusão e pecado, e os peixes são os que respondem ao chamado de Jesus."
+                        "Jesus é aquele que confirma as promessas de Deus, digno de total confiança.",
+                        "Jesus é o Amém, a testemunha fiel e verdadeira, o princípio da criação de Deus.",
+                        "Jesus é o fundamento de toda a criação e o modelo perfeito de fidelidade ao Pai ."
                     ]
                 }
             ]
