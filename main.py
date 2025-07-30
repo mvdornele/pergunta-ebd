@@ -12,21 +12,21 @@ def obter_perguntas():
         "perguntas": {
             "para_todos": [
                 {
-                    "texto": "3.Lendo Apocalipse, capítulo 3, versos 16 e 17, identifique as características da igreja de Laodiceia. Faça a aplicação profética para a igreja dos nossos dias.",
+                    "texto": "3.Lendo Apocalipse, capítulo 3, verso 20, o que temos que fazer para o Senhor Jesus habitar em nosso coração?",
                     "opcoes": [
-                        "Igreja morna, rica de bens materiais e pobre de bens espirituais.",    
-                        "Uma igreja que não reconhece sua real condição espiritual.",
-                        "Igreja indiferente espiritualmente, sem fervor nem compromisso verdadeiro com Deus."
+                        "Ouvir a voz do Senhor Jesus e abrir o coração para Ele entrar e fazer morada em nossa vida.",    
+                        "Estar atentos à voz do Senhor e responder ao Seu chamado com obediência e fé, permitindo que Ele transforme nosso interior.",
+                        "Receber Jesus com sinceridade, entregando nossa vida a Ele e permitindo que Sua presença guie nossos pensamentos e atitudes."
                     ]
                 }
             ],
             "para_cias": [
                 {
-                    "texto": "4.Lendo Apocalipse, capítulo 3, verso 14, identifique quem é o Senhor Jesus.",
+                    "texto": "4.Lendo Apocalipse, capítulo 3, verso 20, o que temos que fazer para Jesus morar no nosso coração?",
                     "opcoes": [
-                        "Jesus é aquele que confirma as promessas de Deus, digno de total confiança.",
-                        "Jesus é o Amém, a testemunha fiel e verdadeira, o princípio da criação de Deus.",
-                        "Jesus é o fundamento de toda a criação e o modelo perfeito de fidelidade ao Pai ."
+                        "Estar atentos à voz do Senhor e responder ao Seu chamado com obediência e fé, permitindo que Ele transforme nosso interior.",
+                        "Ouvir Jesus. Abrir o coração para Jesus entrar e morar",
+                        "Receber Jesus com sinceridade, entregando nossa vida a Ele e permitindo que Sua presença guie nossos pensamentos e atitudes."
                     ]
                 }
             ]
