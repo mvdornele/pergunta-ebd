@@ -12,21 +12,21 @@ def obter_perguntas():
         "perguntas": {
             "para_todos": [
                 {
-                    "texto": "1. Lendo Apocalipse, capítulo 3, versos 17 e 18, identifique a relação entre as seguintes características da igreja de Laodiceia e os conselhos do Senhor Jesus. Faça a aplicação profética",
+                    "texto": "1.Em Apocalipse, capitulo 1, verso 4, o senhor Jesus e apresentado como; ...aquele que é, e que era, e que há de vir.... Identifique o sentido profético desta expressão e o que ela representa para a sua vida espiritual.",
                     "opcoes": [
-                        "Batismo com o Espírito Santo, discernimento espiritual e experiência de salvação — a igreja de Laodiceia carece desses três aspectos, vivendo na força humana, sem santidade e misturada com o mundo.",    
-                        "Falta à igreja de Laodiceia poder espiritual, clareza para distinguir o santo do profano e vida transformada pelo sangue de Jesus.",
-                        "A igreja de Laodiceia vive sem o poder do Espírito Santo, sem discernimento e sem comunhão verdadeira com Deus, conformando-se com o mundo."
+                        "O sentido profético desta expressão mostra a eternidade e a imutabilidade do Senhor Jesus. Ele é o mesmo ontem, hoje e para sempre, o que dá segurança à nossa fé.Para minha vida espiritual, isso representa confiança",    
+                        "Aquele que é, que era e que há de vir, revela que o Senhor Jesus está presente em toda a história: Ele já atuava no passado, governa o presente e virá em glória no futuro.",
+                        "O sentido profético mostra que Jesus é o Senhor do tempo e da eternidade. Ele transcende passado, presente e futuro, e anuncia Sua volta gloriosa. Para minha vida espiritual, isso representa esperança."
                     ]
                 }
             ],
             "para_cias": [
                 {
-                    "texto": "2. Leia 1 Samuel, capítulo 16, verso 7b e Atos, capítulo 13, verso 22b, e responda: Por que Deus escolheu Davi para ser rei de Israel?",
+                    "texto": "4. Leia 1º Samuel, capítulo 16, verso 18 e responda: Davi dava um bom testemunho? Quais as caracteristicas que o identificavam?",
                     "opcoes": [
-                        "Porque Davi tinha um coração obediente a Deus.",
-                        "Porque Davi tinha um coração segundo o coração de Deus.",
-                        "Porque Davi fazia a vontade de Deus em todas as coisas."
+                        "Sim, Davi dava um bom testemunho. Ele era descrito como valente, forte e homem de guerra, além de tocar bem a harpa. Essas características mostravam que ele tinha coragem, habilidade e dedicação em tudo o que fazia.",
+                        "Davi dava um bom testemunho porque era conhecido como homem cuidadoso nas palavras e de boa aparência, além de ter o Senhor com ele. Isso mostra que seu testemunho não estava apenas em suas capacidades, mas principalmente na presença de Deus em sua vida.",
+                        "As características que identificavam Davi eram: sabedoria, coragem, habilidade musical, prudência no falar e a presença do Espírito do Senhor em sua vida. Isso fazia dele alguém diferenciado, que inspirava confiança e demonstrava fidelidade a Deus."
                     ]
                 }
             ]
