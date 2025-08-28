@@ -12,21 +12,21 @@ def obter_perguntas():
         "perguntas": {
             "para_todos": [
                 {
-                    "texto": "1.Em Apocalipse, capitulo 1, verso 4, o senhor Jesus e apresentado como; ...aquele que é, e que era, e que há de vir.... Identifique o sentido profético desta expressão e o que ela representa para a sua vida espiritual.",
+                    "texto": "1. Ao ler Apocalipse, capítulo 2, verso 1, identifique o significado profético de cada título dado ao Senhor Jesus. Faça a aplicação na vida da igreja a) Aquele que tem na sua destra as sete estrelas. b) Aquele que anda no meio dos sete castiçais de ouro.",
                     "opcoes": [
-                        "O sentido profético desta expressão mostra a eternidade e a imutabilidade do Senhor Jesus. Ele é o mesmo ontem, hoje e para sempre, o que dá segurança à nossa fé.Para minha vida espiritual, isso representa confiança",    
-                        "Aquele que é, que era e que há de vir, revela que o Senhor Jesus está presente em toda a história: Ele já atuava no passado, governa o presente e virá em glória no futuro.",
-                        "O sentido profético mostra que Jesus é o Senhor do tempo e da eternidade. Ele transcende passado, presente e futuro, e anuncia Sua volta gloriosa. Para minha vida espiritual, isso representa esperança."
+                        "A plena operação do Espírito Santo na igreja sob o governo do Senhor Jesus.",    
+                        "A presença do Senhor Jesus na Igreja em todos os 7 períodos de sua existência.",
+                        "A igreja deve reconhecer que toda autoridade espiritual provém de Cristo."
                     ]
                 }
             ],
             "para_cias": [
                 {
-                    "texto": "4. Leia 1º Samuel, capítulo 16, verso 18 e responda: Davi dava um bom testemunho? Quais as caracteristicas que o identificavam?",
+                    "texto": "3. Leia 1 Samuel, capítulo 17, verso 45, e responda: O que havia no coração de Davi quando foi lutar contra o gigante Golias?",
                     "opcoes": [
-                        "Sim, Davi dava um bom testemunho. Ele era descrito como valente, forte e homem de guerra, além de tocar bem a harpa. Essas características mostravam que ele tinha coragem, habilidade e dedicação em tudo o que fazia.",
-                        "Davi dava um bom testemunho porque era conhecido como homem cuidadoso nas palavras e de boa aparência, além de ter o Senhor com ele. Isso mostra que seu testemunho não estava apenas em suas capacidades, mas principalmente na presença de Deus em sua vida.",
-                        "As características que identificavam Davi eram: sabedoria, coragem, habilidade musical, prudência no falar e a presença do Espírito do Senhor em sua vida. Isso fazia dele alguém diferenciado, que inspirava confiança e demonstrava fidelidade a Deus."
+                        "A fé verdadeira. Davi confiava em Deus, que é o Senhor dos Exércitos.",
+                        "A coragem que vem do Espírito de Deus.",
+                        "O zelo pela honra do nome do Senhor."
                     ]
                 }
             ]
