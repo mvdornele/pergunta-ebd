@@ -12,21 +12,21 @@ def obter_perguntas():
         "perguntas": {
             "para_todos": [
                 {
-                    "texto": "1. Ao ler Apocalipse, capítulo 2, verso 1, identifique o significado profético de cada título dado ao Senhor Jesus. Faça a aplicação na vida da igreja a) Aquele que tem na sua destra as sete estrelas. b) Aquele que anda no meio dos sete castiçais de ouro.",
+                    "texto": "1. Ao ler Apocalipse, capítulo 4, verso 7, identifique o significado profético das seguintes designações atribuidas ao Senhor Jesus na vidão de João- A- Semelhante a um Leão B- semelhamte a um Bezerro C- O rosto como Homem D-Semelhante a uma águia voando.",
                     "opcoes": [
-                        "A plena operação do Espírito Santo na igreja sob o governo do Senhor Jesus.",    
-                        "A presença do Senhor Jesus na Igreja em todos os 7 períodos de sua existência.",
-                        "A igreja deve reconhecer que toda autoridade espiritual provém de Cristo."
+                        "Leão → representa o Senhor Jesus como Rei soberano, aquele que reina com poder, autoridade e majestade sobre toda a criação.",    
+                        "Bezerro → aponta para o sacrifício perfeito de Cristo, que se entregou em favor da Igreja, revelando obediência e serviço.",
+                        "Homem → mostra o Jesus encarnado, que viveu como homem e se compadece das nossas fraquezas, sendo o intercessor fiel."
                     ]
                 }
             ],
             "para_cias": [
                 {
-                    "texto": "3. Leia 1 Samuel, capítulo 17, verso 45, e responda: O que havia no coração de Davi quando foi lutar contra o gigante Golias?",
+                    "texto": "2. Leia Hebreus, capítulo 11, verso 23 e responda, O que levou os pais de Moisés a não temerem faraó quando Moisés nasceu?.",
                     "opcoes": [
-                        "A fé verdadeira. Davi confiava em Deus, que é o Senhor dos Exércitos.",
-                        "A coragem que vem do Espírito de Deus.",
-                        "O zelo pela honra do nome do Senhor."
+                        "Eles viram que Moisés era um menino formoso, separado por Deus, e reconheceram que havia um propósito especial na vida dele.",
+                        "Agiram pela fé, confiando que Deus tinha um plano maior, e por isso não temeram o decreto de Faraó.",
+                        "Tiveram coragem e confiança no Senhor, pois creram que a proteção divina era maior que a ordem do rei"
                     ]
                 }
             ]
