@@ -12,7 +12,7 @@ def obter_perguntas():
         "perguntas": {
             "para_todos": [
                 {
-                    "texto": "1.Ao ler Apocalipse, Capitulo 5, versos 5 e 6, identifique a relação profética entre três designações atribuidas ao senhor jesus na visão de João. Faça aplicação na vida da Igreja.,
+                    "texto": "1.Ao ler Apocalipse, Capitulo 5, versos 5 e 6, identifique a relação profética entre três designações atribuidas ao senhor jesus na visão de João. Faça aplicação na vida da Igreja.",
                     "opcoes": [
                         "O Leão da tribo de Juda: Mostra que Jesus é o Rei vitorioso, que reina sobre todas as coisas e dá à igreja segurança diante das lutas espirituais.",    
                         "A raiz de Davi: Ensina que toda a esperança e governo espiritual da igreja estão firmados em Cristo, o verdadeiro Rei prometido, que sustenta e conduz o Seu povo.",
