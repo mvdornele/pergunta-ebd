@@ -12,21 +12,21 @@ def obter_perguntas():
         "perguntas": {
             "para_todos": [
                 {
-                    "texto": "1.Ao ler Apocalipse, capítulo 1, verso 8 e capítulo 22, verso 13, identifique a relação profética da designação de Jesus como EU SOU, no evangelho de João, nas seguintes expressões:.",
+                    "texto": "1.Ao ler Apocalipse, capítulo 6, verso 2, o que representa na história da Igreja o cavalo branco, que saiu vitorioso para vencer?.",
                     "opcoes": [
-                        "EU SOU o pão da vida.– João 6:48: Relaciona-se a Jesus como o princípio e o fim (Ap 1:8), pois Ele é quem sustenta a vida eterna.Assim como o pão físico alimenta o corpo, Jesus é o alimento espiritual que dá vida eterna",    
-                        "EU SOU a luz do mundo.– João 8:12: Relaciona-se a Jesus como a luz que guia na eternidade (Ap 22:13). Ele é a luz que dissipa as trevas do pecado e conduz o seu povo até a Canaã Celestial.",
-                        "EU SOU o bom Pastor.– João 10:11: Relaciona-se a Jesus como o que é, que era e que há de vir (Ap 1:8), pois Ele cuida das suas ovelhas em todo tempo, deu a sua vida por elas e as conduzirá até a vida eterna."
+                        "O cavalo branco simboliza a pureza e a vitória do Evangelho anunciado pela Igreja primitiva.",    
+                        "O que está montado no cavalo branco aponta para Cristo, que venceu o pecado e a morte e continua conduzindo a Igreja em triunfo.",
+                        "Representa a Igreja no início da sua jornada, cheia do Espírito Santo, pregando com autoridade e alcançando vitória espiritual sobre o mundo."
                     ]
                 }
             ],
             "para_cias": [
                 {
-                    "texto": "2.Leia, Êxodo capitulo 14, verso 13 e 14a, e responda: Quem batalhou pelo povo de Israel e batalha por nós para nos tirar deste mundo e nos levar para a Canaã Celestial?.",
+                    "texto": "4.Leia Marcos, capítulo 1, versículo 17, e responda: O que é ser “pescador de homens”?.",
                     "opcoes": [
-                        "O Senhor Deus.",
-                        "Jesus Cristo.",
-                        "O Espírito Santo."
+                        "Ser pescador de homens é anunciar o Evangelho para que pessoas sejam salvas.",
+                        "Significa obedecer à voz de Jesus, deixando interesses pessoais para cumprir a missão dele.",
+                        "Ser pescador de homens é ser instrumento de Deus para tirar pessoas das trevas e conduzi-las à vida eterna."
                     ]
                 }
             ]
