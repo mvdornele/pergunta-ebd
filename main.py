@@ -15,7 +15,7 @@ def obter_perguntas():
                     "texto": "1.Ao ler Apocalipse, capitulo 13,verso8, quem sãos os adoradores do senhor jesus, cujo os nomes estão escritos no livro da Vida?.",
                     "opcoes": [
                         "são os que reconhecem Jesus como Senhor e O adoram; seus nomes estão escritos no Livro da Vida porque foram redimidos pela fé. Apoc. 13:8; Apoc. 21:27.",    
-                        "aqueles que se arrependeram e foram purificados por Cristo; a Bíblia descreve os redimidos como os que "lavaram as suas vestes e as branquearam no sangue do Cordeiro". Apoc. 7:14.",
+                        "aqueles que se arrependeram e foram purificados por Cristo; a Bíblia descreve os redimidos como os que lavaram as suas vestes e as branquearam no sangue do Cordeiro. Apoc. 7:14.",
                         "os fiéis que permanecem em Cristo até o fim; a Escritura associa fidelidade perseverante à permanência no Livro da Vida Apoc. 3:5; Apoc. 2:10."
                     ]
                 }
