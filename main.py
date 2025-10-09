@@ -12,21 +12,21 @@ def obter_perguntas():
         "perguntas": {
             "para_todos": [
                 {
-                    "texto": "1.Ao ler Apocalipse, capítulo 6, verso 2, o que representa na história da Igreja o cavalo branco, que saiu vitorioso para vencer?.",
+                    "texto": "1.Ao ler Apocalipse, capitulo 13,verso8, quem sãos os adoradores do senhor jesus, cujo os nomes estão escritos no livro da Vida?.",
                     "opcoes": [
-                        "O cavalo branco simboliza a pureza e a vitória do Evangelho anunciado pela Igreja primitiva.",    
-                        "O que está montado no cavalo branco aponta para Cristo, que venceu o pecado e a morte e continua conduzindo a Igreja em triunfo.",
-                        "Representa a Igreja no início da sua jornada, cheia do Espírito Santo, pregando com autoridade e alcançando vitória espiritual sobre o mundo."
+                        "são os que reconhecem Jesus como Senhor e O adoram; seus nomes estão escritos no Livro da Vida porque foram redimidos pela fé. Apoc. 13:8; Apoc. 21:27.",    
+                        "aqueles que se arrependeram e foram purificados por Cristo; a Bíblia descreve os redimidos como os que "lavaram as suas vestes e as branquearam no sangue do Cordeiro". Apoc. 7:14.",
+                        "os fiéis que permanecem em Cristo até o fim; a Escritura associa fidelidade perseverante à permanência no Livro da Vida Apoc. 3:5; Apoc. 2:10."
                     ]
                 }
             ],
             "para_cias": [
                 {
-                    "texto": "4.Leia Marcos, capítulo 1, versículo 17, e responda: O que é ser “pescador de homens”?.",
+                    "texto": "3.Leia Lucas,capitulo 19, verso 5 a 6 e responde: O que Zaqueu fez quando Jesus disse que queria pousar na sua casa?",
                     "opcoes": [
-                        "Ser pescador de homens é anunciar o Evangelho para que pessoas sejam salvas.",
-                        "Significa obedecer à voz de Jesus, deixando interesses pessoais para cumprir a missão dele.",
-                        "Ser pescador de homens é ser instrumento de Deus para tirar pessoas das trevas e conduzi-las à vida eterna."
+                        "Apressou-se a descer da árvore. — Zaceu fez haste para descer quando Jesus disse que queria ficar em sua casa. Lc 19:5.",
+                        "Recebeu Jesus em sua casa. — Ele abriu sua casa e hospedou Jesus. Lc 19:5.",
+                        "Fez isso com alegria. — Lucas diz explicitamente que Zaceu o recebeu com alegria. Lc 19:6."
                     ]
                 }
             ]
