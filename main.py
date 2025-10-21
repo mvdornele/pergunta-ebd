@@ -12,21 +12,21 @@ def obter_perguntas():
         "perguntas": {
             "para_todos": [
                 {
-                    "texto": "1.Ao ler Apocalipse, capitulo 13,verso8, quem sãos os adoradores do senhor jesus, cujo os nomes estão escritos no livro da Vida?.",
+                    "texto": "2.Ao ler Apocalipse, capítulo 19, versos 7 e 8, identifique o sentido profético das vestes da Igreja que já está pronta como a esposa do Cordeiro.",
                     "opcoes": [
-                        "são os que reconhecem Jesus como Senhor e O adoram; seus nomes estão escritos no Livro da Vida porque foram redimidos pela fé. Apoc. 13:8; Apoc. 21:27.",    
-                        "aqueles que se arrependeram e foram purificados por Cristo; a Bíblia descreve os redimidos como os que lavaram as suas vestes e as branquearam no sangue do Cordeiro. Apoc. 7:14.",
-                        "os fiéis que permanecem em Cristo até o fim; a Escritura associa fidelidade perseverante à permanência no Livro da Vida Apoc. 3:5; Apoc. 2:10."
+                        "Representam o estado espiritual daqueles que foram lavados e purificados pelo sangue de Jesus, conforme está escrito.Apocalipse 22:14",    
+                        "Elas não são fruto de mérito humano, mas resultado da obediência e fidelidade à Palavra de Deus, conforme o próprio versículo declara.Apocalipse 19:8",
+                        "A Igreja adornada com vestes puras e resplandecentes é símbolo de que está pronta para as Bodas do Cordeiro — um povo separado, fiel e revestido da graça do Senhor.Apocalipse 19:7"
                     ]
                 }
             ],
             "para_cias": [
                 {
-                    "texto": "3.Leia Lucas,capitulo 19, verso 5 a 6 e responde: O que Zaqueu fez quando Jesus disse que queria pousar na sua casa?",
+                    "texto": "4.Leia João, capítulo 14, verso 3, e responda: O que Jesus fará quando Ele voltar?",
                     "opcoes": [
-                        "Apressou-se a descer da árvore. — Zaceu fez haste para descer quando Jesus disse que queria ficar em sua casa. Lc 19:5.",
-                        "Recebeu Jesus em sua casa. — Ele abriu sua casa e hospedou Jesus. Lc 19:5.",
-                        "Fez isso com alegria. — Lucas diz explicitamente que Zaceu o recebeu com alegria. Lc 19:6."
+                        "Ele prometeu voltar para levar consigo aqueles que creram n’Ele e guardaram Sua Palavra. João 14:3",
+                        "O retorno de Cristo marca o cumprimento da promessa da vida eterna ao lado do Pai. 1 Tessalonicenses 4:17",
+                        "Na Sua vinda, Ele dará a coroa da vida aos que permaneceram firmes na fé. Apocalipse 22:12"
                     ]
                 }
             ]
