@@ -12,7 +12,7 @@ def obter_perguntas():
         "perguntas": {
             "para_todos": [
                 {
-                    "texto": "1) Ao ler Apocalipse 19:13, qual é a relação entre as vestes de Jesus, que estão salpicadas de sangue, e o Seu nome, A Palavra de Deus?.",
+                    "texto": "1.Ao ler Apocalipse 19:13, qual é a relação entre as vestes de Jesus, que estão salpicadas de sangue, e o Seu nome, A Palavra de Deus?.",
                     "opcoes": [
                         "As vestes salpicadas de sangue simbolizam o sacrifício de Jesus na cruz, através do qual Ele redimiu a humanidade. Esse sangue representa o preço pago pela salvação, confirmando que A Palavra de Deus se fez carne e se entregou por amor (João 1:14).",    
                         "O sangue em Suas vestes também indica o juízo de Deus sobre o pecado. Jesus, como a Palavra de Deus, executa justiça divina e vence o mal o sangue representa a vitória sobre os inimigos espirituais (Isaías 63:2-3).",
