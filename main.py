@@ -12,21 +12,21 @@ def obter_perguntas():
         "perguntas": {
             "para_todos": [
                 {
-                    "texto": "1.Ao ler Apocalipse 19:13, qual é a relação entre as vestes de Jesus, que estão salpicadas de sangue, e o Seu nome, A Palavra de Deus?.",
+                    "texto": "2.Ao comparar Apocalipse 22:5 com João 8:12, qual é a promessa para aquele que segue Jesus? Faça a relação profética.",
                     "opcoes": [
-                        "As vestes salpicadas de sangue simbolizam o sacrifício de Jesus na cruz, através do qual Ele redimiu a humanidade. Esse sangue representa o preço pago pela salvação, confirmando que A Palavra de Deus se fez carne e se entregou por amor (João 1:14).",    
-                        "O sangue em Suas vestes também indica o juízo de Deus sobre o pecado. Jesus, como a Palavra de Deus, executa justiça divina e vence o mal o sangue representa a vitória sobre os inimigos espirituais (Isaías 63:2-3).",
-                        "O título A Palavra de Deus revela que Jesus é a manifestação viva da vontade e do poder de Deus. Suas vestes salpicadas de sangue mostram que essa Palavra não é apenas falada, mas cumprida com autoridade e sacrifício, revelando tanto graça quanto juízo."
+                        "Promessa de Luz Eterna: Em Apocalipse 22:5, está escrito que não haverá mais noite, e não necessitarão de lâmpada nem de luz do sol, porque o Senhor Deus os alumia.",    
+                        "Promessa de Vida e Direção:Em João 8:12, Jesus promete que quem o segue terá a luz da vida, e em Apocalipse 22:5 essa vida é plena e eterna, pois os salvos reinarão para sempre com Deus.",
+                        "Promessa de Reinado e Glória Eterna: Apocalipse 22:5 afirma que reinarão para todo o sempre, mostrando a vitória final dos que permaneceram fiéis à luz de Cristo."
                     ]
                 }
             ],
             "para_cias": [
                 {
-                    "texto": "4.Leia Rute 1:16 e responda: Qual foi a escolha de Rute Quando Noemi descidiu voltar para Belem?",
+                    "texto": "4.Leia Rute 2:2 e responda, O que Rute foi fazer no campo e o que aconteceu com ela?",
                     "opcoes": [
-                        "Rute escolheu permanecer ao lado de Noemi, recusando-se a deixá-la mesmo diante das dificuldades.",
-                        "Ela decidiu deixar sua terra natal, Moabe, para acompanhar Noemi e viver em Belém, demonstrando amor e lealdade.",
-                        "Rute escolheu servir ao Deus de Israel, declarando: O teu povo é o meu povo, e o teu Deus é o meu Deus, revelando sua fé e compromisso com o Senhor."
+                        "Rute foi respigar espigas de trigo. Ela pediu permissão para ir aos campos e recolher as espigas que caíam durante a colheita, para que ela e Noemi tivessem alimento Rute 2:2.",
+                        "Rute encontrou favor diante de Boaz.Enquanto trabalhava, Rute foi notada por Boaz, que era um homem justo e parente de Noemi. Ele tratou Rute com bondade e lhe concedeu proteção e provisão Rute 2:8-9.",
+                        "Deus começou a mudar a história de Rute. A partir desse encontro, iniciou-se o plano de Deus para restaurar sua vida, resultando futuramente em seu casamento com Boaz e em sua inclusão na linhagem de Jesus Cristo Mateus 1:5."
                     ]
                 }
             ]
