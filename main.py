@@ -12,21 +12,21 @@ def obter_perguntas():
         "perguntas": {
             "para_todos": [
                 {
-                    "texto": "2.Ao comparar Apocalipse 22:5 com João 8:12, qual é a promessa para aquele que segue Jesus? Faça a relação profética.",
+                    "texto": "1.Lendo Levítico, capítulo 2, verso 1, identifique o sentido profético dos seguintes ingredientes básicos da oferta de manjares.",
                     "opcoes": [
-                        "Promessa de Luz Eterna: Em Apocalipse 22:5, está escrito que não haverá mais noite, e não necessitarão de lâmpada nem de luz do sol, porque o Senhor Deus os alumia.",    
-                        "Promessa de Vida e Direção:Em João 8:12, Jesus promete que quem o segue terá a luz da vida, e em Apocalipse 22:5 essa vida é plena e eterna, pois os salvos reinarão para sempre com Deus.",
-                        "Promessa de Reinado e Glória Eterna: Apocalipse 22:5 afirma que reinarão para todo o sempre, mostrando a vitória final dos que permaneceram fiéis à luz de Cristo."
+                        "Flor de farinha.",    
+                        "Azeite.",
+                        "Incenso."
                     ]
                 }
             ],
             "para_cias": [
                 {
-                    "texto": "4.Leia Rute 2:2 e responda, O que Rute foi fazer no campo e o que aconteceu com ela?",
+                    "texto": "3.Leia Hebreus, capítulo 11, versículo 6, e responda, O que devemos ter em nossos corações para agradar a Deus?",
                     "opcoes": [
-                        "Rute foi respigar espigas de trigo. Ela pediu permissão para ir aos campos e recolher as espigas que caíam durante a colheita, para que ela e Noemi tivessem alimento Rute 2:2.",
-                        "Rute encontrou favor diante de Boaz.Enquanto trabalhava, Rute foi notada por Boaz, que era um homem justo e parente de Noemi. Ele tratou Rute com bondade e lhe concedeu proteção e provisão Rute 2:8-9.",
-                        "Deus começou a mudar a história de Rute. A partir desse encontro, iniciou-se o plano de Deus para restaurar sua vida, resultando futuramente em seu casamento com Boaz e em sua inclusão na linhagem de Jesus Cristo Mateus 1:5."
+                        "Fé em Deus.",
+                        "Crer que Deus existe.",
+                        "Buscar a Deus com sinceridade."
                     ]
                 }
             ]
